@@ -4,6 +4,8 @@
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+Line: 3230 and 3234 changes the background color of the page.
 */
 
 html, body, div, span, applet, object,
@@ -97,6 +99,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+/*The command below changes the color of contact section. Keep it as it is. */
 	body {
 		background: #312450;
 	}
@@ -3226,11 +3229,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #ffffff;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #ffffff;
 		}
 
 		.wrapper.style2 {
