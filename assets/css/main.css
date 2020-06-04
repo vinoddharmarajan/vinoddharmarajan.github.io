@@ -5,7 +5,10 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Line: 3230 and 3234 changes the background color of the page.
+Modifications:
+--------------
+Line 3230 and 3234: changes the background color of the page.
+Line 3255: Justifies the text to top of page. Can change to center.
 */
 
 html, body, div, span, applet, object,
@@ -3261,10 +3264,10 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			-moz-justify-content: center;
-			-webkit-justify-content: center;
-			-ms-justify-content: center;
-			justify-content: center;
+			-moz-justify-content: top;
+			-webkit-justify-content: top;
+			-ms-justify-content: top;
+			justify-content: top;
 			min-height: 100vh;
 		}
 
