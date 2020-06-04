@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #FFFFFF;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2504,7 +2504,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #ffffff;
+			color: #333A3C;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2515,11 +2515,11 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #ffffff;
+					color: #333A3C;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #ffffff;
+					color: #333A3C;
 				}
 
 				.wrapper.style2 .icon.major:before {
